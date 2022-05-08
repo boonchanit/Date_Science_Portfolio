@@ -7,4 +7,5 @@ https://github.com/boonchanit/Date_Science_Portfolio/blob/main/Project_house_pre
 https://github.com/boonchanit/Date_Science_Portfolio/blob/main/Suv_purchase.ipynb : To build a model that accurately predicts whether customers will purchase SUV cars or not.
 
 ## Data Analysis and Visualisation
+https://github.com/boonchanit/Date_Science_Portfolio/blob/main/Telco_EDA.ipynb : Exploratory Analysis customers Churn using Pandas.
 
