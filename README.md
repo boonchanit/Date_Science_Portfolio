@@ -9,3 +9,5 @@ https://github.com/boonchanit/Date_Science_Portfolio/blob/main/Suv_purchase.ipyn
 ## Data Analysis and Visualisation
 https://github.com/boonchanit/Date_Science_Portfolio/blob/main/Telco_EDA.ipynb : Exploratory Analysis customers Churn using Pandas.
 
+https://github.com/boonchanit/Date_Science_Portfolio/blob/main/Customer_profit_sale.ipynb : Analyze customer behavior to answer targets question.
+
