@@ -13,3 +13,6 @@ https://github.com/boonchanit/Date_Science_Portfolio/blob/main/Telco_EDA.ipynb :
 
 https://github.com/boonchanit/Date_Science_Portfolio/blob/main/Customer_profit_sale.ipynb : Analyze customer behavior to answer targets question.
 
+
+## Funny Activities Bot
+
