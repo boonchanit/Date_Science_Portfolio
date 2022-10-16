@@ -14,7 +14,7 @@ https://github.com/boonchanit/Date_Science_Portfolio/blob/main/Telco_EDA.ipynb :
 https://github.com/boonchanit/Date_Science_Portfolio/blob/main/Customer_profit_sale.ipynb : Analyze customer behavior to answer targets question.
 
 
-## Funny Activities 
+## Activities 
 https://github.com/boonchanit/Date_Science_Portfolio/blob/main/Shopee_scarp.ipynb : Web scraping uses selenium and Beautifulsoup. Create a CSV file with the name of products and prices.
 
 https://github.com/boonchanit/Date_Science_Portfolio/blob/main/Text_summarization.ipynb : Text summarization getting data from leonardoenglish.com by scraping data. Visualize by WordClound 
